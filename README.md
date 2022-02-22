@@ -9,11 +9,11 @@ This repository hosts an accessible version of the Horiseon website code, specif
 ## Website
 [Horiseon-Challenge-1](https://tovtc.github.io/horiseon-scscbc-challenge/)
 
+![Alt text](./horiseon-mockup.png?raw=true "Horiseon Website")
+
 ## Built With
 * HTML
 * CSS
-
-![Alt text](./horiseon-mockup.png?raw=true "Horiseon Website")
 
 ## Support
 Contact repository author.
